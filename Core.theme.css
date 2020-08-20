@@ -235,7 +235,7 @@ header, h1, h2, .da-header, .da-username, .da-channelName, .bda-name, .da-messag
 .cardPrimary-1Hv-to, .embed-IeVjo6, .bd-card, .hljs {
 	backdrop-filter: blur(calc(var(--blur-bgcover) / 100 * var(--dplus-blur-scale))); }
 
-/* Windows titlebar */
+/* Windows titlebar
 .typeWindows-1za-n7 {
 	background-color: var(--dplus-bg-1);
 	height: 20px;
@@ -250,7 +250,7 @@ header, h1, h2, .da-header, .da-username, .da-channelName, .bda-name, .da-messag
 }
 .wordmark-2iDDfm {
 	display: block;
-/* 	background-image: url(//plusinsta.github.io/discord-plus/assets/wordmark_white.svg); */
+	background-image: url(//plusinsta.github.io/discord-plus/assets/wordmark_white.svg);
 	background-repeat: no-repeat;
 	background-size: 65px 16px;
 	background-position: 6px 4px !important;
@@ -260,7 +260,7 @@ header, h1, h2, .da-header, .da-username, .da-channelName, .bda-name, .da-messag
 }
 .theme-light .wordmark-2iDDfm {
 	filter: brightness(0);
-}
+} */
 
 /* macOS window buttons */
 .typeMacOS-3EmCyP {
