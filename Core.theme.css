@@ -250,11 +250,12 @@ header, h1, h2, .da-header, .da-username, .da-channelName, .bda-name, .da-messag
 }
 .wordmark-2iDDfm {
 	display: block;
-	background-image: url(//plusinsta.github.io/discord-plus/assets/wordmark_white.svg);
+/* 	background-image: url(//plusinsta.github.io/discord-plus/assets/wordmark_white.svg); */
 	background-repeat: no-repeat;
 	background-size: 65px 16px;
 	background-position: 6px 4px !important;
 	height: 16px; width: 65px;
+	content: 'Master';
 	opacity: 0.6;
 }
 .theme-light .wordmark-2iDDfm {
