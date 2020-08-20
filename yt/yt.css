@@ -41,14 +41,14 @@ iframe {
 
 /*YouTube's Variables*/
 :root {
-	--yt-app-background: transparent !important;
-	--yt-main-app-background: transparent !important;
-	--yt-main-app-background-tmp: transparent !important;
-	--yt-guide-background: transparent !important;
-	--yt-sidebar-background: transparent !important;
-	--yt-dialog-background: transparent;
-	--yt-searchbox-background: transparent;
-	--yt-channel-header-background: transparent;
+	--yt-app-background: #802060 !important;
+	--yt-main-app-background: #802060 !important;
+	--yt-main-app-background-tmp: #802060 !important;
+	--yt-guide-background: #802060 !important;
+	--yt-sidebar-background: #802060 !important;
+	--yt-dialog-background: #802060;
+	--yt-searchbox-background: #802060;
+	--yt-channel-header-background: #802060;
 }
 
 /*Header*/
