@@ -28,7 +28,7 @@ iframe {
 	--font:'Product Sans';
 	--background: url(https://purifiedbot.github.io/discord/images/name.svg);
 	--roundness: 10px;
-	--accent-color: rgb(135,31,96);
+	--accent-color: #802060;
 	--transparency: rgba(0, 0, 0, 0.6);
 	--transparency-dark: rgba(0, 0, 0, 0.7);
 	--transparency-darker: rgba(0, 0, 0, 0.8);
